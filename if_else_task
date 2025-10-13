@@ -1,0 +1,58 @@
+1. Simple if Statement Programs
+
+ Write a program to check if a number is positive.
+ Write a program to check if a number is greater than 100.
+Write a program to check if a person is eligible for voting (age ≥ 18).
+Write a program to check if a number is even using only if.
+ Write a program to check if a student passed the exam (marks ≥ 35).
+
+
+2. if-else Statement Programs
+
+ Write a program to check if a number is even or odd.
+ Write a program to check whether a person is adult or minor based on age.
+ Write a program to find the greater number between two numbers.
+ Write a program to check if a number is positive or negative.
+ Write a program to check if a year is leap year or not.
+
+3. else if Ladder Programs
+
+ Write a program to display grades based on marks:
+
+Marks >= 90 → A  
+Marks >= 75 → B  
+Marks >= 60 → C  
+Marks >= 35 → D  
+Else → Fail
+
+
+ Write a program to display the day of the week based on day number (1–7).
+ Write a program to find the largest among three numbers.
+ Write a program to calculate electricity bill based on units consumed.
+ Write a program to calculate discount percentage based on total purchase amount.
+
+
+4. Nested if Statement Programs
+
+ Write a program to check if a number is positive, negative, or zero using nested if.
+ Write a program to find the largest among three numbers using nested if.
+ Write a program to check if a year is leap year using nested if (divisible by 4, 100, 400).
+ Write a program to check eligibility for admission:
+
+Marks in Math ≥ 60
+
+Marks in Physics ≥ 50
+
+Marks in Chemistry ≥ 40
+
+Total ≥ 200
+ Write a program to check student result:
+If student passed all 3 subjects, display “Pass”, otherwise “Fail”.
+
+5. Mixed Decision Programs
+
+Write a program to check if a character is vowel or consonant.
+ Write a program to check if a given year, month, and day is valid date or not.
+ Write a program to check whether entered character is uppercase, lowercase, digit, or special character.
+Write a program to check whether a number is divisible by both 3 and 5.
+ Write a program to calculate income tax based on salary slab using else-if ladder.

@@ -1,0 +1,34 @@
+for compile program - gcc .\first.c -o first
+executable file
+for run - ./first
+//datatypes - 2 types primitive datatypes & non-primitive 
+//primitive dataypes -- void int float char String
+void -- default - doesnot return any value
+int - decimal value - 65,535
+long int 
+double
+float - 24.56
+character - 'q'
+string -- array of characters = ""
+//non-primitive datatypes -- array structure pointer 
+/*
+a=10
+b=35.56
+c='R'
+d="iuyteriu"
+*/
+//32 keywords in c
+//abc_123
+//123_abc
+//case sensitive
+//abc -- Abc
+//dataypes , variables
+//operators
+if_else else if ladder & nested if
+switch case
+loop - 
+continue,break,goto
+array
+string
+structure union pointers 
+linked list 

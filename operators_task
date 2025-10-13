@@ -1,0 +1,43 @@
+C Language – Operators Practical Programs
+1. Arithmetic Operators
+
+ Write a program to perform addition, subtraction, multiplication, division, and modulus of two numbers.
+ Write a program to calculate the area of a rectangle using * operator.
+ Write a program to find the average of three numbers using arithmetic operators.
+
+2. Relational Operators
+
+ Write a program to compare two numbers using relational operators.
+ Write a program to check if a number is greater than, less than, or equal to another number.
+ Write a program to check if a number is positive, negative, or zero.
+
+3.Logical Operators
+
+Write a program to check if a number is between 10 and 50 using logical operators.
+Write a program to check if a year is a leap year using logical operators.
+Write a program to check if a student has passed (if marks ≥ 35) using AND/OR operator.
+
+4.Assignment Operators
+
+ Write a program to use +=, -=, *=, /= operators and show their results.
+ Write a program to find the compound value using assignment operators.
+ Write a program to increase salary by 10% using *= operator.
+
+5. Increment / Decrement Operators
+
+ Write a program to demonstrate the difference between pre-increment and post-increment.
+ Write a program to print numbers from 1 to 10 using increment operator.
+ Write a program to print countdown from 10 to 1 using decrement operator.
+
+6. Conditional / Ternary Operator
+
+Write a program to find the largest of two numbers using the ternary operator.
+Write a program to check whether a number is even or odd using the ternary operator.
+Write a program to find the smallest of three numbers using nested ternary operator.
+
+7. Mixed Operators Practice
+
+Write a program to calculate simple interest using arithmetic and assignment operators.
+Write a program to calculate grade based on marks using relational and logical operators.
+Write a program to swap two numbers without using a third variable (use + and -).
+Write a program to check eligibility for voting (age ≥ 18) using conditional and logical operators.
