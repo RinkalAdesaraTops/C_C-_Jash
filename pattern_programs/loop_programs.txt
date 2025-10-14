@@ -1,0 +1,51 @@
+While Loop Programs
+
+Print numbers from 1 to 10
+
+Print even numbers from 1 to 20
+
+Print odd numbers from 1 to 20
+
+Sum of first 10 natural numbers
+
+Find factorial of a number
+
+Reverse a given number
+
+Count digits in a number
+
+Find sum of digits of a number
+
+Check if a number is palindrome or not
+
+Check if a number is Armstrong or not
+
+Find the greatest digit in a number
+
+Print multiplication table of given number
+
+
+
+Print Fibonacci series up to N terms
+
+*Do-While Loop Programs*
+
+Print numbers from 1 to 10
+
+Display menu until user chooses to exit
+
+Sum of digits of a number
+
+Reverse a number
+
+Check if a number is palindrome
+
+Calculate factorial of a number
+
+Print multiplication table using do-while
+
+Print even numbers between 1 and 20
+
+Find sum of all even numbers up to N
+
+Keep taking input until user enters zero
