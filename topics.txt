@@ -1,12 +1,12 @@
 if_else
 loops
-array
-string
-pointer
+array - 1d,2d array
+string - string function
+pointer - chain of pointer
 UDF
-structure
-union
+structure - nested structure - array of structure
+union - nested union
 enum
+---------------------------------------------------------
 C - programming language - structure based
-
 oops -- C++ - object based 
