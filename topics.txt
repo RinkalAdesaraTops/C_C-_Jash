@@ -1,0 +1,12 @@
+if_else
+loops
+array
+string
+pointer
+UDF
+structure
+union
+enum
+C - programming language - structure based
+
+oops -- C++ - object based 
